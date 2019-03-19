@@ -15,3 +15,6 @@ Quiz questions are being fetched from an external API (http://opentdb.com) and a
 Once submitted, the user will see his score (1 point per correct answer) and how many of the previous results he managed to beat. For this purpose, results are being saved in a Vuex store.
 
 Demo: http://jasonsant-fasttrack.surge.sh/
+
+## How to Deploy
+        npm run dev
