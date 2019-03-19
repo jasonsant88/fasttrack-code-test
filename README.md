@@ -18,4 +18,5 @@ Demo: http://jasonsant-fasttrack.surge.sh/
 
 ## How to Deploy
         npm install
+
         npm run dev (Development)
