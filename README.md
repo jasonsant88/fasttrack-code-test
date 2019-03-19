@@ -17,4 +17,5 @@ Once submitted, the user will see his score (1 point per correct answer) and how
 Demo: http://jasonsant-fasttrack.surge.sh/
 
 ## How to Deploy
+        npm install
         npm run dev (Development)
